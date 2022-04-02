@@ -8,7 +8,7 @@ all:
       hosts:
         web1:
           ansible_host: 10.108.0.7
-          ansible_port: 22
+          ansible_port: 
         web2:
           ansible_host: 10.108.0.10
-          ansible_port: 7789
+          ansible_port: 
