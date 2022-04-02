@@ -1,6 +1,0 @@
----
-- name: Add users
-  hosts: all
-  gather_facts: no
-  tasks:
-    - name: 
